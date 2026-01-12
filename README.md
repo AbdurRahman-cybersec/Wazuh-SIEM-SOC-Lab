@@ -127,6 +127,20 @@ This project demonstrates:
 
 ---
 
+## Phase 2: VPS-Based Wazuh Deployment with Remote Agent
+
+This project was extended beyond a local Docker lab by deploying Wazuh on a **public Contabo VPS** and enrolling a **remote Windows endpoint** over the internet.
+
+This phase focused on:
+- Running Wazuh in a 24/7 cloud environment
+- Enrolling agents across network boundaries
+- Troubleshooting real-world issues such as NAT, duplicate agent identities, and authentication failures
+- Validating end-to-end agent-to-manager communication
+
+📁 Detailed documentation:  
+[vps-agent-deployment/README.md](vps-agent-deployment/README.md)
+
+
 ## Disclaimer
 This deployment is intended for **learning and lab purposes only** and should not be used in production without proper hardening and security controls.
 
