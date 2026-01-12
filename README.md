@@ -1,9 +1,12 @@
-# Wazuh SIEM Deployment with Docker (Single Node)
+# Wazuh SIEM Deployment with Docker (Single Node) & VPS Deployment
 
 ## Overview
 This project demonstrates hands-on Security Operations Center (SOC) experience by deploying **Wazuh SIEM** in a **Docker-based single-node environment** on Windows. The lab covers Wazuh architecture, secure deployment using certificates, and access to the Wazuh dashboard for monitoring and alerting.
 
 The goal of this project is to showcase practical skills in SIEM deployment, log management, and containerized security infrastructure—skills directly relevant to junior SOC analyst and cybersecurity roles.
+
+📁 Phase 2 link: [vps-agent-deployment/README.md](vps-agent-deployment/README.md)
+
 
 ---
 
